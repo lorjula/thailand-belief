@@ -103,7 +103,7 @@
           </div>
 
           <div class="material">
-            <img class="img" src="~assets/img/ carwhite.jpg">
+            <img class="img" src="~assets/img/carwhite.jpg">
             <p class="pp4" style="color:#333333;font-size: 1.9em;">สีรถถูกโฉลกประจําวันพุธกลางวัน</p>
             <h5 class="h5"> รถสีน้ำเงิน สีฟ้า</h5>
             <h6 class="h6">เสริมดวงด้านความเคารพนับถือ ยกย่อง ยอมรับ</h6>
