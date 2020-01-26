@@ -1,6 +1,12 @@
+const routerBase = {
+  router: {
+    base: '/thailand-belief/'
+  }
+};
 
 export default {
   mode: 'spa',
+  ...routerBase,
   /*
   ** Headers of the page
   */
