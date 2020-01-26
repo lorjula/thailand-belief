@@ -166,7 +166,7 @@
 
           <div class="material">
             <p class="pp1">6.พฤหัสบดี</p>
-            <img class="img" src="~assets/img/ keaw.jpg">
+            <img class="img" src="~assets/img/keaw.jpg">
             <p class="pp2" style="color: #5F5E5E;margin-bottom: 0px;">
               ที่มาของภาพ:https://www.pinterest.com/</p>
             <div class="details" style="padding-top:15px;">
@@ -192,7 +192,7 @@
 
           <div class="material">
             <p class="pp1">7.ศุกร์</p>
-            <img class="img" src="~assets/img/ kam.jpg">
+            <img class="img" src="~assets/img/kam.jpg">
             <p class="pp2" style="color: #5F5E5E;margin-bottom: 0px;">
               ที่มาของภาพ:http://www.clicksii.com/photostock/</p>
             <div class="details" style="padding-top:15px;">
@@ -217,7 +217,7 @@
 
           <div class="material">
             <p class="pp1">8.เสาร์</p>
-            <img class="img" src="~assets/img/ wadsana.jpg">
+            <img class="img" src="~assets/img/wadsana.jpg">
             <p class="pp2" style="color: #5F5E5E;margin-bottom: 0px;">
               ที่มาของภาพ:https://170bzc.blogspot.com/</p>
             <div class="details" style="padding-top:15px;">

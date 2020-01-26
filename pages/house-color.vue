@@ -51,7 +51,7 @@
 
           <div class="material">
             <p class="pp1">3.วันอังคาร</p>
-            <img class="img" src="~assets/img/ homecolorlight.svg">
+            <img class="img" src="~assets/img/homecolorlight.jpg">
             <div class="details" style="padding-top:15px;">
               <h5 class="h5">สีทาบ้านที่เหมาะกับคนเกิดวันอังคาร</h5>
               <h6 class="h6">สีโทนอ่อน อย่างสีฟ้าอ่อน สีเขียวอ่อน หรือโทนสีเย็นๆ
