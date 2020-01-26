@@ -32,7 +32,7 @@
           </div>
           <div class="material">
             <p class="pp1">1.วันอาทิตย์</p>
-            <img class="img" src="~assets/img/Sunday.jpg">
+            <img class="img" src="~assets/img/Sunday.svg">
             <div class="details" style="padding-top:30px;">
               <h5 class="h5">สีแดง</h5>
               <h6 class="h6">เสริมสร้างบริวาร</h6>
@@ -147,7 +147,7 @@
 
           <div class="material">
             <p class="pp1">6.พฤหัสบดี</p>
-            <img class="img" src="~assets/img/Thursday.jpg">
+            <img class="img" src="~assets/img/Thursday.svg">
             <div class="details" style="padding-top:30px;">
               <h5 class="h5">สีส้ม</h5>
               <h6 class="h6">เสริมสร้างบริวาร</h6>
@@ -170,7 +170,7 @@
 
           <div class="material">
             <p class="pp1">7.ศุกร์</p>
-            <img class="img" src="~assets/img/Friday.jpg">
+            <img class="img" src="~assets/img/Friday.svg">
             <div class="details" style="padding-top:30px;">
               <h5 class="h5">สีฟ้า สีน้ำเงิน</h5>
               <h6 class="h6">เสริมสร้างบริวาร</h6>
@@ -193,7 +193,7 @@
 
           <div class="material">
             <p class="pp1">8.เสาร์</p>
-            <img class="img" src="~assets/img/Saturday.jpg">
+            <img class="img" src="~assets/img/Saturday.svg">
             <div class="details" style="padding-top:30px;">
               <h5 class="h5">สีม่วง สีดำ</h5>
               <h6 class="h6">เสริมสร้างบริวาร</h6>
