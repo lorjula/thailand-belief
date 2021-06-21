@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="595" height="596" viewBox="0 0 595 596">
+  <defs>
+    <filter id="Rectangle_15" x="0" y="0" width="595" height="596" filterUnits="userSpaceOnUse">
+      <feOffset dy="11" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_18" x="49" y="120" width="444" height="427" filterUnits="userSpaceOnUse">
+      <feOffset dy="11" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_19" x="274" y="27" width="288" height="250" filterUnits="userSpaceOnUse">
+      <feOffset dy="11" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_34" data-name="Group 34" transform="translate(18762.5 -585.5)">
+    <g transform="matrix(1, 0, 0, 1, -18762.5, 585.5)" filter="url(#Rectangle_15)">
+      <rect id="Rectangle_15-2" data-name="Rectangle 15" width="532" height="533" rx="5" transform="translate(31.5 20.5)" fill="#fff"/>
+    </g>
+    <path id="Rectangle_67" data-name="Rectangle 67" d="M5,0H499a0,0,0,0,1,0,0V450a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" transform="translate(-18731 606)" fill="#c9a081"/>
+    <g transform="matrix(1, 0, 0, 1, -18762.5, 585.5)" filter="url(#Rectangle_18)">
+      <rect id="Rectangle_18-2" data-name="Rectangle 18" width="381" height="364" rx="5" transform="translate(80.5 140.5)" fill="#fbfbfb"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -18762.5, 585.5)" filter="url(#Rectangle_19)">
+      <path id="Rectangle_19-2" data-name="Rectangle 19" d="M5,0H225a0,0,0,0,1,0,0V187a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(305.5 47.5)" fill="#737d74"/>
+    </g>
+    <text id="สีมงคล_กาลกิณี_ประจำวันเกิด" data-name="สีมงคล,กาลกิณี
+ประจำวันเกิด" transform="translate(-18345 709)" fill="#fff" font-size="30" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="-95.355" y="0">สีมงคล,กาลกิณี</tspan><tspan x="-76.575" y="45">ประจำวันเกิด</tspan></text>
+    <g id="Group_29" data-name="Group 29" transform="translate(-387 -1673)">
+      <g id="Group_28" data-name="Group 28" transform="translate(-18261.168 2539)">
+        <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="25" cy="24.5" rx="25" ry="24.5" transform="translate(0.168)" fill="#a36361"/>
+        <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="25" cy="24.5" rx="25" ry="24.5" transform="translate(263.168)" fill="#eeae8c"/>
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="24.5" cy="24.5" r="24.5" transform="translate(88.168)" fill="#d3a29c"/>
+        <circle id="Ellipse_6" data-name="Ellipse 6" cx="24.5" cy="24.5" r="24.5" transform="translate(176.168)" fill="#eecc8c"/>
+        <text id="Red_" data-name="Red
+" transform="translate(17.168 66)" fill="#413d3a" font-size="8" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Red</tspan><tspan x="0" y="12"></tspan></text>
+        <text id="Pink" transform="translate(103.168 67)" fill="#413d3a" font-size="9" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Pink</tspan></text>
+        <text id="Yellow" transform="translate(187.168 66)" fill="#413d3a" font-size="8" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Yellow</tspan></text>
+        <text id="Orange" transform="translate(272.168 66)" fill="#413d3a" font-size="8" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Orange</tspan></text>
+      </g>
+      <g id="Group_27" data-name="Group 27" transform="translate(-18262 2648.938)">
+        <circle id="Ellipse_8" data-name="Ellipse 8" cx="25" cy="25" r="25" transform="translate(0 1.062)" fill="#aab8bb"/>
+        <circle id="Ellipse_9" data-name="Ellipse 9" cx="25" cy="25" r="25" transform="translate(88 1.062)" fill="#afabac"/>
+        <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="25" cy="24.5" rx="25" ry="24.5" transform="translate(177 0.062)" fill="#9eaba2"/>
+        <ellipse id="Ellipse_18" data-name="Ellipse 18" cx="25" cy="24.5" rx="25" ry="24.5" transform="translate(265 0.062)" fill="#a79393"/>
+        <text id="Blue" transform="translate(16 66.062)" fill="#413d3a" font-size="8" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Blue</tspan></text>
+        <text id="Gray" transform="translate(104 68.062)" fill="#413d3a" font-size="10" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Gray</tspan></text>
+        <text id="Green" transform="translate(189 66.062)" fill="#413d3a" font-size="8" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Green</tspan></text>
+        <text id="Brown" transform="translate(277 66.062)" fill="#413d3a" font-size="8" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Brown</tspan></text>
+      </g>
+    </g>
+    <text id="Birthday_Color" data-name="Birthday Color" transform="translate(-18597 772)" fill="#737d74" font-size="16" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="-51.872" y="0">Birthday Color</tspan></text>
+  </g>
+</svg>

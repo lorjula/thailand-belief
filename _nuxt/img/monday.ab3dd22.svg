@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="541" height="542" viewBox="0 0 541 542">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="541" height="542" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_23" x="0" y="0" width="541" height="542" filterUnits="userSpaceOnUse">
+      <feOffset dy="11" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3" x="375.5" y="97.5" width="72" height="71" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_4" x="279.5" y="219.5" width="72" height="71" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_19" x="97.5" y="98.5" width="70" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_37" data-name="Group 37" transform="translate(21246.5 -606.5)">
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(-21246.5 606.5)" clip-path="url(#clip-path)">
+      <g transform="translate(19312.6 -665.5)">
+        <g transform="matrix(1, 0, 0, 1, -19312.6, 665.5)" filter="url(#Rectangle_23)">
+          <rect id="Rectangle_23-2" data-name="Rectangle 23" width="478" height="479" rx="5" transform="translate(31.5 20.5)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_5" data-name="Path 5" d="M27,0A26.754,26.754,0,0,1,54,26.5,26.754,26.754,0,0,1,27,53,26.754,26.754,0,0,1,0,26.5,26.754,26.754,0,0,1,27,0Z" transform="translate(-20848 710)" fill="#232b40"/>
+    <ellipse id="Ellipse_22" data-name="Ellipse 22" cx="27" cy="26.5" rx="27" ry="26.5" transform="translate(-20944 832)" fill="#3c4a84"/>
+    <text id="Purple_Black" data-name="Purple, Black" transform="translate(-20854 782)" fill="#413d3a" font-size="8" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Purple, Black</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, -21246.5, 606.5)" filter="url(#Path_3)">
+      <path id="Path_3-2" data-name="Path 3" d="M27,0A26.754,26.754,0,0,1,54,26.5,26.754,26.754,0,0,1,27,53,26.754,26.754,0,0,1,0,26.5,26.754,26.754,0,0,1,27,0Z" transform="translate(384.5 103.5)" fill="#cda5f4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -21246.5, 606.5)" filter="url(#Path_4)">
+      <path id="Path_4-2" data-name="Path 4" d="M27,0A26.754,26.754,0,0,1,54,26.5,26.754,26.754,0,0,1,27,53,26.754,26.754,0,0,1,0,26.5,26.754,26.754,0,0,1,27,0Z" transform="translate(288.5 225.5)" fill="#abc1de"/>
+    </g>
+    <g id="Group_35" data-name="Group 35" transform="translate(-21243.67 711.035)">
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="27" cy="27" r="27" transform="translate(88.67 -0.035)" fill="#eecc8c"/>
+      <g transform="matrix(1, 0, 0, 1, -2.83, -104.54)" filter="url(#Ellipse_19)">
+        <ellipse id="Ellipse_19-2" data-name="Ellipse 19" cx="26" cy="27" rx="26" ry="27" transform="translate(106.5 104.5)" fill="#fff"/>
+      </g>
+      <text id="White_Yellow" data-name="White,Yellow" transform="translate(94.67 71.965)" fill="#413d3a" font-size="9" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">White,Yellow</tspan></text>
+    </g>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="27" cy="27" r="27" transform="translate(-21047 711)" fill="#d3a29c"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="27" cy="27" r="27" transform="translate(-20951 711)" fill="#9eaba2"/>
+    <text id="Pink" transform="translate(-21028 782)" fill="#413d3a" font-size="8" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Pink</tspan></text>
+    <text id="Green" transform="translate(-20934 782)" fill="#413d3a" font-size="8" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Green</tspan></text>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="27" cy="27" r="27" transform="translate(-21151 831)" fill="#eeae8c"/>
+    <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="27.5" cy="26.5" rx="27.5" ry="26.5" transform="translate(-21047 832)" fill="#afabac"/>
+    <text id="Orange" transform="translate(-21136 904)" fill="#413d3a" font-size="8" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Orange</tspan></text>
+    <text id="Gray" transform="translate(-21028 904)" fill="#413d3a" font-size="8" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Gray</tspan></text>
+    <g id="Group_30" data-name="Group 30" transform="translate(-21141.67 983.549)">
+      <ellipse id="Ellipse_18" data-name="Ellipse 18" cx="27" cy="26" rx="27" ry="26" transform="translate(-0.33 0.451)" fill="#a36361"/>
+      <text id="Red_" data-name="Red
+" transform="translate(17.67 71.451)" fill="#413d3a" font-size="8" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Red</tspan><tspan x="0" y="12"></tspan></text>
+    </g>
+    <g id="Group_36" data-name="Group 36" transform="translate(-20950.67 831.549)">
+      <text id="Blue" transform="translate(17.67 71.451)" fill="#413d3a" font-size="8" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="0" y="0">Blue</tspan></text>
+    </g>
+    <text id="สีมงคล" transform="translate(-21146 676)" fill="#737d74" font-size="15" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="-22.17" y="0">สีมงคล</tspan></text>
+    <text id="สีกาลกิณี" transform="translate(-21140 955)" fill="#737d74" font-size="15" font-family="Kanit-Light, Kanit" font-weight="300"><tspan x="-28.425" y="0">สีกาลกิณี</tspan></text>
+  </g>
+</svg>
