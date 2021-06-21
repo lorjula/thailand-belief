@@ -1,0 +1,20 @@
+{
+  "name": "thailand-belief",
+  "version": "1.0.0",
+  "description": "My ultimate Nuxt.js project",
+  "author": "warunrada",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "deploy:master": "push-dir --dir=dist --branch=master --allow-unclean"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "nuxt": "^2.0.0",
+    "push-dir": "^0.4.1"
+  },
+  "devDependencies": {}
+}
